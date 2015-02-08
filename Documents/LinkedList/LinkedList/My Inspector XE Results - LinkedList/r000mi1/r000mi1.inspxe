@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <rdmgr>
+  <timestamp type="u64_t">1387506430</timestamp>
+  <hostname>SAJID-PC</hostname>
+  <os>windows</os>
+  <product>Intel® Inspector XE 2013 Update 8</product>
+  <buildNumber type="s32_t">313340</buildNumber>
+  <logicalCPUCount type="s32_t">2</logicalCPUCount>
+  <CPUFrequency type="s64_t">2000000000</CPUFrequency>
+  <collectionTimeBegin type="u64_t">1387506430</collectionTimeBegin>
+  <collectionTimeEnd type="u64_t">1387506476</collectionTimeEnd>
+  <variables>
+   <at>mi1</at>
+  </variables>
+ </rdmgr>
+</root>

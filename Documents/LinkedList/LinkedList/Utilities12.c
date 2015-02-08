@@ -1,0 +1,2 @@
+// To sort two unsorted lists ; List A contains K elements and List B contains I elements into a sorted list
+// The resultant list C will contain K + I elements in descending order. DO NOT use any sorting algorithm

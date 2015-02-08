@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<diags major="2" minor="0">
+
+<diag id="1">
+	<type>233</type>
+	<message>
+		<timestamp>100280538</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>1912</threadid>
+			<stackstamp>100341046</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\SAJID\SkyDrive\Documents\Visual Studio Projects\CPlusPlus General\LinkedList\Debug\LinkedList.exe</mod>
+			<rva>0x4850</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="2">
+	<type>233</type>
+	<message>
+		<timestamp>1122727518</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>4268</threadid>
+			<stackstamp>1122787526</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod></mod>
+			<rva>0x0</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>

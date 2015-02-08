@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feedback>
+ <message severity="info">Analysis started...</message>
+ <nop/>
+ <message severity="info">Result file: C:\Users\SAJID\SkyDrive\Documents\Visual Studio Projects\CPlusPlus General\LinkedList\LinkedList\My Inspector XE Results - LinkedList\r001mi1\r001mi1.inspxe </message>
+ <nop/>
+ <message severity="info">Analysis started for C:\Users\SAJID\SkyDrive\Documents\Visual Studio Projects\CPlusPlus General\LinkedList\Debug\LinkedList.exe (pid = 2680) </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Users\SAJID\SkyDrive\Documents\Visual Studio Projects\CPlusPlus General\LinkedList\Debug\LinkedList.exe, address range [0x010A0000-0x010AEFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files (x86)\Intel\Inspector XE 2013\bin32\dnclrprof.dll, address range [0x10000000-0x1002CFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files (x86)\Intel\Inspector XE 2013\bin32\ccrt12.dll, address range [0x56000000-0x56120FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\bcryptPrimitives.dll, address range [0x74B40000-0x74B90FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\CRYPTBASE.dll, address range [0x74BA0000-0x74BA8FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\SspiCli.dll, address range [0x74BB0000-0x74BCCFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\USER32.dll, address range [0x75E40000-0x75F8EFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\MSCTF.dll, address range [0x75F90000-0x76086FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\GDI32.dll, address range [0x76240000-0x76347FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\KERNELBASE.dll, address range [0x76500000-0x765CEFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\RPCRT4.dll, address range [0x76660000-0x76710FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\ADVAPI32.dll, address range [0x76730000-0x767A6FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\combase.dll, address range [0x76840000-0x7698DFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\msvcrt.dll, address range [0x76A40000-0x76AFDFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\sechost.dll, address range [0x76B50000-0x76B8DFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\IMM32.DLL, address range [0x76B90000-0x76BB4FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\ole32.dll, address range [0x76BC0000-0x76CCAFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\KERNEL32.DLL, address range [0x76D10000-0x76E4FFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\ntdll.dll, address range [0x77180000-0x772E7FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files (x86)\Norton AntiVirus\NortonData\21.1.0.18\Definitions\BASHDefs\20131203.001\UMEngx86.dll, address range [0x61090000-0x610C5FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\MSVCR120D.dll, address range [0x59EA0000-0x5A05EFFF] </message>
+ <nop/>
+ <message severity="info">Application exit code: 255 </message>
+ <nop/>
+ <message severity="info">Result file: C:\Users\SAJID\SkyDrive\Documents\Visual Studio Projects\CPlusPlus General\LinkedList\LinkedList\My Inspector XE Results - LinkedList\r001mi1\r001mi1.inspxe </message>
+ <nop/>
+ <message severity="info">Analysis completed</message>
+ <nop/>
+</feedback>

@@ -1,0 +1,16 @@
+-r
+C:\Users\SAJID\SkyDrive\Documents\Visual Studio Projects\CPlusPlus General\LinkedList\LinkedList\My Inspector XE Results - LinkedList\r001mi1
+--no-access-checks
+--no-analyze-stack
+--leak-maximum=100000
+--leak-check-only
+--leak-check-on-exit
+--check-resource-leaks
+--leak-check-report-reachable
+--freelist-vol=0
+--guard-zone-size=0
+--stack-depth=8
+--no-close-console
+--heartbeat=1
+--
+C:\Users\SAJID\SkyDrive\Documents\Visual Studio Projects\CPlusPlus General\LinkedList\Debug\LinkedList.exe

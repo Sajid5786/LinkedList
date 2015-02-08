@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<log version="1.0" tool="runtool">
+
+<msg id="1" tool="runtool">
+  <type>log-start</type>
+  <arg>2013/12/20 07:57:11</arg>
+</msg>
+<msg id="2" tool="runtool">
+  <type>collector-starts</type>
+</msg>
+<msg id="3" tool="runtool">
+  <type>marker-file</type>
+  <arg>C:\Users\SAJID\SkyDrive\Documents\Visual Studio Projects\CPlusPlus General\LinkedList\LinkedList\My Inspector XE Results - LinkedList\r000mi1\r000mi1.inspxe</arg>
+</msg>
+<msg id="4" tool="mc">
+  <type>EXEC_OF_INTEREST</type>
+  <arg>C:\Users\SAJID\SkyDrive\Documents\Visual Studio Projects\CPlusPlus General\LinkedList\Debug\LinkedList.exe</arg>
+  <arg>2240</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:15 2013</timestamp>
+</msg>
+<msg id="5" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Users\SAJID\SkyDrive\Documents\Visual Studio Projects\CPlusPlus General\LinkedList\Debug\LinkedList.exe</arg>
+  <arg>0x010A0000</arg>
+  <arg>0x010AEFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:16 2013</timestamp>
+</msg>
+<msg id="6" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Program Files (x86)\Intel\Inspector XE 2013\bin32\dnclrprof.dll</arg>
+  <arg>0x10000000</arg>
+  <arg>0x1002CFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:16 2013</timestamp>
+</msg>
+<msg id="7" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Program Files (x86)\Intel\Inspector XE 2013\bin32\ccrt12.dll</arg>
+  <arg>0x56000000</arg>
+  <arg>0x56120FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="8" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\SYSTEM32\bcryptPrimitives.dll</arg>
+  <arg>0x74B40000</arg>
+  <arg>0x74B90FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="9" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\SYSTEM32\CRYPTBASE.dll</arg>
+  <arg>0x74BA0000</arg>
+  <arg>0x74BA8FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="10" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\SYSTEM32\SspiCli.dll</arg>
+  <arg>0x74BB0000</arg>
+  <arg>0x74BCCFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="11" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\SYSTEM32\USER32.dll</arg>
+  <arg>0x75E40000</arg>
+  <arg>0x75F8EFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="12" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\SYSTEM32\MSCTF.dll</arg>
+  <arg>0x75F90000</arg>
+  <arg>0x76086FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="13" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\SYSTEM32\GDI32.dll</arg>
+  <arg>0x76240000</arg>
+  <arg>0x76347FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="14" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\SYSTEM32\KERNELBASE.dll</arg>
+  <arg>0x76500000</arg>
+  <arg>0x765CEFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="15" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\SYSTEM32\RPCRT4.dll</arg>
+  <arg>0x76660000</arg>
+  <arg>0x76710FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="16" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\SYSTEM32\ADVAPI32.dll</arg>
+  <arg>0x76730000</arg>
+  <arg>0x767A6FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="17" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\SYSTEM32\combase.dll</arg>
+  <arg>0x76840000</arg>
+  <arg>0x7698DFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="18" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\SYSTEM32\msvcrt.dll</arg>
+  <arg>0x76A40000</arg>
+  <arg>0x76AFDFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="19" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\SYSTEM32\sechost.dll</arg>
+  <arg>0x76B50000</arg>
+  <arg>0x76B8DFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="20" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\IMM32.DLL</arg>
+  <arg>0x76B90000</arg>
+  <arg>0x76BB4FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="21" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\SYSTEM32\ole32.dll</arg>
+  <arg>0x76BC0000</arg>
+  <arg>0x76CCAFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="22" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\SYSTEM32\KERNEL32.DLL</arg>
+  <arg>0x76D10000</arg>
+  <arg>0x76E4FFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="23" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\SYSTEM32\ntdll.dll</arg>
+  <arg>0x77180000</arg>
+  <arg>0x772E7FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="24" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Program Files (x86)\Norton AntiVirus\NortonData\21.1.0.18\Definitions\BASHDefs\20131203.001\UMEngx86.dll</arg>
+  <arg>0x61090000</arg>
+  <arg>0x610C5FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="25" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\SYSTEM32\MSVCR120D.dll</arg>
+  <arg>0x571C0000</arg>
+  <arg>0x5737EFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Dec 20 07:57:17 2013</timestamp>
+</msg>
+<msg id="26" tool="runtool">
+  <type>app-exit-code</type>
+  <arg>0</arg>
+</msg>
+<msg id="27" tool="runtool">
+  <type>marker-file</type>
+  <arg>C:\Users\SAJID\SkyDrive\Documents\Visual Studio Projects\CPlusPlus General\LinkedList\LinkedList\My Inspector XE Results - LinkedList\r000mi1\r000mi1.inspxe</arg>
+</msg>
+<msg id="28" tool="runtool">
+  <type>collector-done</type>
+</msg>
+<msg id="29" tool="runtool">
+  <type>log-end</type>
+  <arg>2013/12/20 07:57:56</arg>
+</msg>
+
+</log>
+
